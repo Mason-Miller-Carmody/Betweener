@@ -30,4 +30,4 @@ else:
 
 print("--- Part 2: yours ---")
 if user_age<LOW_AGE or user_age>=HIGH_AGE:
-    print("NOT A BETWEENER")
+    print("NOT BETWEENER")
